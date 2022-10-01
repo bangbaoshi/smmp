@@ -2,7 +2,18 @@
 name = "smmp"
 version = "0.1.0"
 edition = "2021"
+authors = ["bangbaoshi"]
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+
+documentation = "https://github.com/bangbaoshi/smmp"
+homepage = "https://github.com/bangbaoshi/smmp"
+repository = "https://github.com/bangbaoshi/smmp"
+
+license = "MIT"
+description = "SMMP is a secure, multi-party, synchronous communication protocol. "
+readme = "README.md"
 
 [dependencies]
